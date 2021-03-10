@@ -1,3 +1,7 @@
+## Demo
+
+https://alexmccomb.github.io/dog-api-test/
+
 ## Setup
 
 1. Clone down this repository. You will need `node` and `npm` installed globally on your machine.
